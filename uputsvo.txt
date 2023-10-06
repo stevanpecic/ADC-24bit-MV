@@ -1,0 +1,10 @@
+http://dan.drown.org/stm32duino/package_STM32duino_index.json ovo u preferences
+
+stm32duino examples u libraries
+
+setovati generic STM32F103CB board
+
+variant sa 128k flash
+
+port: COM3
+
